@@ -1,5 +1,5 @@
 # SQL-Sales-Project-Snowflake
-# ETL Process and Data Analysis for Sell Phone
+# ETL Process and Data Analysis for Sell Phone Company
 
 ## Project Overview
 This project focuses on extracting, transforming, and loading (ETL) sales order data from three major regions: **Asia, Europe, and North America**. The objective was to harmonize this data into a unified structure using **Snowflake** and **SQL**, ensuring accurate and insightful data analysis through dynamic dashboards.
