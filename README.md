@@ -1,4 +1,4 @@
-# SQL-Sales-Project-Snowflake-
+# SQL-Sales-Project-Snowflake
 # ETL Process and Data Analysis for Sell Phone
 
 ## Project Overview
